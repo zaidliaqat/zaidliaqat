@@ -21,7 +21,7 @@ I'm a passionate developer from Pakistan, currently exploring the depth of the M
 
 ### 🚀 Featured Projects
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=zaidliaqat&repo=CricSpeed-Pro&theme=tokyonight&show_owner=true" />
+  <img src="https://github.com/zaidliaqat/rideflow-app.git?username=zaidliaqat&repo=CricSpeed-Pro&theme=tokyonight&show_owner=true" />
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=zaidliaqat&repo=Norixy&theme=tokyonight&show_owner=true" />
 </div>
 
