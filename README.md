@@ -19,14 +19,6 @@ I'm a passionate developer from Pakistan, currently exploring the depth of the M
 
 <hr>
 
-### 💻 Open Source Projects Analysis
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=zaidliaqat&show_icons=true&theme=tokyonight&layout=compact&hide_border=false" width="400" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zaidliaqat&layout=compact&theme=tokyonight&hide_border=false" width="300" />
-</p>
-
-<hr>
-
 ### 🛠 My Tech Stack
 <div align="left">
   <a href="https://skillicons.dev">
