@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=zaidliaqat&label=VISITORS&color=7dd3fc&style=plastic" />
+  <img src="https://komarev.com/ghpvc/?username=zaidliaqat&label=PROFILE+VIEWS&color=00d2ff&style=for-the-badge&logo=github" />
 </p>
 
 <div align="center">
