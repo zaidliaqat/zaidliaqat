@@ -1,7 +1,6 @@
-<div align="center">
-  <img src="https://profile-counter.glitch.me/zaidliaqat/count.svg" />
-  <p>Live Profile Explorers</p>
-</div>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=zaidliaqat&label=VISITORS&color=7dd3fc&style=plastic" />
+</p>
 
 <div align="center">
   <h1>Hey 👋 I'm Muhammad Zaid</h1>
