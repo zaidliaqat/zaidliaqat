@@ -13,9 +13,8 @@
 </div>
 
 <hr>
-
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=zaidliaqat&theme=tokyonight&column=4&margin-w=15&margin-h=15" alt="Trophy" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=zaidliaqat&theme=tokyo-night&bg_color=0d1117&hide_border=true" width="100%" />
 </div>
 
 ### ⚡ About Me
