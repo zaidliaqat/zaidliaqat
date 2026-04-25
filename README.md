@@ -14,6 +14,10 @@
 
 <hr>
 
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=zaidliaqat&theme=tokyonight&column=4&margin-w=15&margin-h=15" alt="Trophy" />
+</div>
+
 ### ⚡ About Me
 I'm a passionate developer from Pakistan, currently exploring the depth of the MERN stack and AI integrations. I love building tools that solve real-world problems.
 
