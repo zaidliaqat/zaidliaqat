@@ -1,4 +1,7 @@
-![Visitors](https://komarev.com/ghpvc/?username=zaidliaqat&color=00d2ff&style=flat-square&label=PROFILE+VIEWS)
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=zaidliaqat&label=PROFILE+VIEWS&color=00d2ff&style=for-the-badge&logo=github" />
+</p>
+
 <div align="center">
   <h1>Hey 👋 I'm Muhammad Zaid</h1>
 </div>
