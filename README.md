@@ -13,9 +13,6 @@
 </div>
 
 <hr>
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=zaidliaqat&theme=tokyo-night&bg_color=0d1117&hide_border=true" width="100%" />
-</div>
 
 ### ⚡ About Me
 I'm a passionate developer from Pakistan, currently exploring the depth of the MERN stack and AI integrations. I love building tools that solve real-world problems.
@@ -30,6 +27,10 @@ I'm a passionate developer from Pakistan, currently exploring the depth of the M
 </div>
 
 <hr>
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=zaidliaqat&theme=tokyo-night&bg_color=0d1117&hide_border=true" width="100%" />
+</div>
 
 ### 📊 GitHub Stats
 <div align="center">
