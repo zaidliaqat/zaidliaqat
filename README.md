@@ -34,6 +34,7 @@ I'm a passionate developer from Pakistan, currently exploring the depth of the M
 
 ### 🤝 Connect with Me
 <p align="left">
-<a href="[https://linkedin.com/in/YOUR_LINKEDIN_ID](https://www.linkedin.com/in/muhammad-zaid-bin-liaqat-051b42270?utm_source=share_via&utm_content=profile&utm_medium=member_android)" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" /></a>
-<a href="[https://instagram.com/YOUR_INSTA_ID](https://www.instagram.com/zaid_liaqat028?igsh=MWR4ZzRvaDRuMzB6OA==)" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="30" width="40" /></a>
+<a href="[https://linkedin.com/in/YOUR_LINKEDIN_ID](https://www.linkedin.com/in/muhammad-zaid-bin-liaqat-051b42270?utm_source=share_via&utm_content=profile&utm_medium=member_android)" target="blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a> &nbsp;
+<a href="https://www.instagram.com/zaid_liaqat028?igsh=MWR4ZzRvaDRuMzB6OA==" target="blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" /></a> &nbsp;
+<a href="mailto:zblking370@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" /></a>
 </p>
