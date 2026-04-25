@@ -1,10 +1,7 @@
 <div align="center">
-  <img src="https://raw.githubusercontent.com/Zaid-Liaqat/Zaid-Liaqat/main/header.png" onerror="this.src='https://capsule-render.vercel.app/render?type=waving&color=00d2ff&height=200&section=header&text=Muhammad%20Zaid&fontSize=70&animation=fadeIn'" />
+  <h1>Hey 👋 I'm Muhammad Zaid</h1>
+  <img src="https://github-readme-stats.vercel.app/api?username=zaidliaqat&show_icons=true&theme=tokyonight&custom_title=Full%20Stack%20Developer%20Stats" alt="Header Stats" width="100%" />
 </div>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=zaidliaqat&label=Profile%20Views&color=00d2ff&style=flat" alt="Views" />
-</p>
 
 <br>
 
