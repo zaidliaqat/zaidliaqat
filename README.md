@@ -27,10 +27,17 @@ I'm a passionate developer from Pakistan, currently exploring the depth of the M
 </div>
 
 <hr>
+### 🚀 Ongoing Project
+- 🔭 **Project Name:** [CricSpeed Pro](https://github.com/zaidliaqat/cricspeed)
+- 💻 **Tech:** MERN Stack + AI
+- 📊 **Status:** Beta Testing
+<hr>
 
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=zaidliaqat&theme=tokyo-night&bg_color=0d1117&hide_border=true" width="100%" />
 </div>
+
+<hr>
 
 ### 📊 GitHub Stats
 <div align="center">
