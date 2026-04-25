@@ -1,6 +1,10 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/render?type=waving&color=auto&height=200&section=header&text=Muhammad%20Zaid&fontSize=70" />
+  <img src="https://raw.githubusercontent.com/Zaid-Liaqat/Zaid-Liaqat/main/header.png" onerror="this.src='https://capsule-render.vercel.app/render?type=waving&color=00d2ff&height=200&section=header&text=Muhammad%20Zaid&fontSize=70&animation=fadeIn'" />
 </div>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=zaidliaqat&label=Profile%20Views&color=00d2ff&style=flat" alt="Views" />
+</p>
 
 <br>
 
