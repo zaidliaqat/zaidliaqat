@@ -5,7 +5,7 @@
 <br>
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&pause=1000&color=00D2FF&center=true&vCenter=true&width=435&lines=Hi+I'm+Muhammad+Zaid;Full+Stack+Developer;MERN+Stack+Expert;UI/UX+Designer" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&pause=1000&color=00D2FF&center=true&vCenter=true&width=435&lines=Full+Stack+Developer;MERN+Stack+Expert;UI/UX+Designer" />
 </div>
 
 <hr>
