@@ -1,6 +1,5 @@
 <div align="center">
-  <img src="https://profile-counter.glitch.me/zaidliaqat/count.svg" />
-  <p>Live Profile Explorers</p>
+  <img src="https://komarev.com/ghpvc/?username=zaidliaqat&color=00ff00&style=flat&label=SYSTEM_ACCESS_COUNT" />
 </div>
 
 <div align="center">
