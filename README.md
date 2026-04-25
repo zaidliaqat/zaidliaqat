@@ -19,6 +19,20 @@ I'm a passionate developer from Pakistan, currently exploring the depth of the M
 
 <hr>
 
+### 🚀 Featured Projects
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=zaidliaqat&repo=CricSpeed-Pro&theme=tokyonight&show_owner=true" />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=zaidliaqat&repo=Norixy&theme=tokyonight&show_owner=true" />
+</div>
+
+<br />
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zaidliaqat&layout=compact&theme=tokyonight&hide_border=true" />
+</div>
+
+<hr>
+
 ### 🛠 My Tech Stack
 <div align="left">
   <a href="https://skillicons.dev">
