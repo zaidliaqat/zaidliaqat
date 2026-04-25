@@ -1,6 +1,5 @@
 <div align="center">
   <h1>Hey 👋 I'm Muhammad Zaid</h1>
-  <img src="https://github-readme-stats.vercel.app/api?username=zaidliaqat&show_icons=true&theme=tokyonight&custom_title=Full%20Stack%20Developer%20Stats" alt="Header Stats" width="100%" />
 </div>
 
 <br>
