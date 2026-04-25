@@ -1,6 +1,6 @@
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=zaidliaqat&color=00ff00&style=flat&label=SYSTEM_ACCESS_COUNT" />
-</div>
+<p align="center">
+  <b>Current Visitors:</b> <code>https://komarev.com/ghpvc/?username=zaidliaqat&color=white&label=%20&style=social</code>
+</p>
 
 <div align="center">
   <h1>Hey 👋 I'm Muhammad Zaid</h1>
